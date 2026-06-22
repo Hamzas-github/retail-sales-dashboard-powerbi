@@ -1,10 +1,6 @@
 # Retail Sales Performance Dashboard
 
-## Project Overview
-
-This project analyzes retail sales performance using the Superstore dataset.
-
-The dashboard was built in Power BI to identify:
+An interactive Power BI dashboard built from the Superstore dataset. It tracks:
 
 - Sales trends over time
 - Product category performance
@@ -12,9 +8,7 @@ The dashboard was built in Power BI to identify:
 - Customer segment behavior
 - Regional sales performance
 
----
-
-## Tools Used
+## Tools
 
 - Power BI
 - DAX
@@ -22,13 +16,9 @@ The dashboard was built in Power BI to identify:
 - Data Cleaning
 - Business Analytics
 
----
-
 ## Dashboard Preview
 
 ![Dashboard](screenshots/dashboard-overview.png)
-
----
 
 ## Key Metrics
 
@@ -38,8 +28,6 @@ The dashboard was built in Power BI to identify:
 | Total Profit | $286K |
 | Total Orders | 5K |
 | Profit Margin | 12.5% |
-
----
 
 ## Key Insights
 
@@ -51,14 +39,12 @@ The dashboard was built in Power BI to identify:
 ### Product Profitability
 
 - Copiers were the most profitable sub-category
-- Several product groups generated significantly lower margins
+- Several product groups generated much lower margins
 
 ### Seasonal Trends
 
 - Sales peaked during Q4
 - November produced the strongest monthly performance
-
----
 
 ## Dashboard Features
 
@@ -68,8 +54,6 @@ The dashboard was built in Power BI to identify:
 - Monthly sales trend analysis
 - Profitability analysis by sub-category
 
----
-
 ## Files
 
 | File | Description |
@@ -78,15 +62,7 @@ The dashboard was built in Power BI to identify:
 | Sample-Superstore.csv | Source dataset |
 | dashboard-overview.png | Dashboard screenshot |
 
----
+## Skills demonstrated
 
-## Author
-
-Aspiring Data Analyst
-
-Built as a portfolio project demonstrating:
-
-- Data Visualization
-- Business Intelligence
-- Dashboard Design
-- Data Analysis
+Power BI, DAX, data cleaning, dashboard design, business intelligence, profitability
+analysis, and clear KPI reporting.
